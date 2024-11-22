@@ -16,7 +16,7 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 1. Flowchart
 
-![Flowchart (5)](https://github.com/user-attachments/assets/44369287-e924-43fc-993a-18245bdc4e8c)
+![Flowchart (9)](https://github.com/user-attachments/assets/81967ded-6d03-408c-8bae-3dfa2b717107)
 
 2. Program Python
 
